@@ -12,7 +12,7 @@ In my version of the comp, I decided to go with a Captain America them. I used a
 
 #### Phone View:
 [Phone size image #1](images/phone-size-1.png)
-[Phone size image #1](images/phone-size-2.png)
+[Phone size image #2](images/phone-size-2.png)
 
 #### Tablet View:
 [Tablet size image #1](images/tablet-size-1.png)
