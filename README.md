@@ -6,17 +6,17 @@ This project is the first of three static comp challenges that require us to bui
 In my version of the comp, I decided to go with a Captain America them. I used an image of Captain America (obviously) and preceded to base my color palette off of that image. From there I used flexbox to style my webpage.
 
 ### Original Comp:
-[Original comp image](https://github.com/tlgreg86/tg-comp-challenge-1/blob/master/images/original-comp-1.png?raw=true)
+[Original comp image](https://github.com/tlgreg86/tg-comp-challenge-1/blob/master/images/original-comp-1.png)
 
 ### My Comp:
 
 #### Desktop View:
-[Desktop size](https://github.com/tlgreg86/tg-comp-challenge-1/blob/master/images/desktop.png?raw=true)
+[Desktop size](https://github.com/tlgreg86/tg-comp-challenge-1/blob/master/images/desktop.png)
 
 #### Tablet View:
-[Tablet size image #1](images/tablet-size-1.png)
-[Tablet size image #2](images/tablet-size-2.png)
+[Tablet size image #1](https://github.com/tlgreg86/tg-comp-challenge-1/blob/master/images/tablet-view-1.png)
+[Tablet size image #2](https://github.com/tlgreg86/tg-comp-challenge-1/blob/master/images/tablet-view-2.png)
 
 #### Phone View:
-[Phone size image #1](images/phone-size-1.png)
-[Phone size image #2](images/phone-size-2.png)
+[Phone size image #1](https://github.com/tlgreg86/tg-comp-challenge-1/blob/master/images/phone-view-1.png)
+[Phone size image #2](https://github.com/tlgreg86/tg-comp-challenge-1/blob/master/images/phone-view-2.png)
